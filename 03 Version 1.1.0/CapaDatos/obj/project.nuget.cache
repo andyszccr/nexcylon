@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oCVRDXS+zrk=",
+  "dgSpecHash": "PtZjIlD4be8=",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\01 Freelance\\01 Proyectos\\SC702-DDS-2025C01\\CapaDatos\\CapaDatos.csproj",
+  "projectFilePath": "D:\\Documentos\\01 Freelance\\01 Proyectos\\nexcylon\\03 Version 1.1.0\\CapaDatos\\CapaDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

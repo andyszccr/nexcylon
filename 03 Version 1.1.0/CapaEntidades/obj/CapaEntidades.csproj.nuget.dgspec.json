@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\01 Freelance\\01 Proyectos\\SC702-DDS-2025C01\\CapaEntidades\\CapaEntidades.csproj": {}
+    "D:\\Documentos\\01 Freelance\\01 Proyectos\\nexcylon\\03 Version 1.1.0\\CapaEntidades\\CapaEntidades.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\01 Freelance\\01 Proyectos\\SC702-DDS-2025C01\\CapaEntidades\\CapaEntidades.csproj": {
+    "D:\\Documentos\\01 Freelance\\01 Proyectos\\nexcylon\\03 Version 1.1.0\\CapaEntidades\\CapaEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\01 Freelance\\01 Proyectos\\SC702-DDS-2025C01\\CapaEntidades\\CapaEntidades.csproj",
+        "projectUniqueName": "D:\\Documentos\\01 Freelance\\01 Proyectos\\nexcylon\\03 Version 1.1.0\\CapaEntidades\\CapaEntidades.csproj",
         "projectName": "CapaEntidades",
-        "projectPath": "D:\\Documentos\\01 Freelance\\01 Proyectos\\SC702-DDS-2025C01\\CapaEntidades\\CapaEntidades.csproj",
+        "projectPath": "D:\\Documentos\\01 Freelance\\01 Proyectos\\nexcylon\\03 Version 1.1.0\\CapaEntidades\\CapaEntidades.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\01 Freelance\\01 Proyectos\\SC702-DDS-2025C01\\CapaEntidades\\obj\\",
+        "outputPath": "D:\\Documentos\\01 Freelance\\01 Proyectos\\nexcylon\\03 Version 1.1.0\\CapaEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

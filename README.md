@@ -12,7 +12,30 @@
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+InventZetaGas es un sistema de inventarios para estaciones de gas que centraliza la administracion de modulos operativos como zonas, camiones, roles, usuarios, tipos de cilindro y reportes.
+
+Actualmente el proyecto se encuentra en **proceso de migracion hacia .NET MAUI**, con el objetivo de modernizar la arquitectura, mejorar la experiencia de usuario y habilitar soporte multiplataforma para futuras versiones.
+
+## Estado de migración a .NET MAUI 🚀
+
+- Estado actual: **Migracion en curso**.
+- Plataforma objetivo de migracion: **.NET MAUI sobre .NET 10**.
+- Base funcional vigente: version de escritorio en .NET (WinForms).
+- Objetivo de la migracion: consolidar una unica base de codigo para evolucionar el sistema con mejor mantenibilidad y escalabilidad.
+- Manager de migracion: **Andrey Sanchez Zuñiga**.
+- Alcance inicial de migracion:
+  - Inicio de sesion y navegacion principal.
+  - Modulos de Zonas, Camiones y Roles.
+  - Gestion de usuarios y recuperacion de contrasena.
+  - Reportes e integracion con servicios de datos existentes.
+- Nota: durante esta etapa, la version actual y la version en MAUI pueden convivir temporalmente mientras se valida cada modulo migrado.
+
+## Hoja de ruta de migración (resumen)
+
+1. Preparacion de arquitectura compartida (entidades, servicios y acceso a datos).
+2. Migracion progresiva de pantallas criticas del negocio.
+3. Pruebas funcionales por modulo y ajustes de experiencia de usuario.
+4. Estabilizacion, documentacion tecnica y despliegue de version MAUI.
 
 ## Diagrama de Tablas Version 1.0 Figma 🙇🏻 
 ![image](https://github.com/user-attachments/assets/ef6ecca4-8fcf-4c18-bd96-de8c40776756)
@@ -123,7 +146,12 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 * [Clifor Barboza Garos](cgaros40183@ufide.ac.cr)
 
 ## Instalación 
-Este proyecto si necesita de un instalador. 
+Este proyecto requiere instalador para su version actual.
+
+### Nota de despliegue por migración
+- La version actual continua operativa mientras avanza la migracion a .NET MAUI.
+- Las imagenes y evidencias visuales del README se mantienen para documentar el avance en la version actual (Visual Studio 2022) y la transicion a MAUI.
+- Se publicaran instrucciones de instalacion especificas para MAUI una vez se libere la primera version estable.
   
 ## Licencia 📄
 Zeta Gas License v3.0

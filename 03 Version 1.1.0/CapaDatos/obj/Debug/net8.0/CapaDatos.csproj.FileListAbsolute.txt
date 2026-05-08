@@ -1,0 +1,16 @@
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\bin\Debug\net8.0\CapaEntidades.dll
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\bin\Debug\net8.0\CapaEntidades.pdb
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\CapaDatos.sourcelink.json
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+D:\Documentos\01 Freelance\01 Proyectos\nexcylon\03 Version 1.1.0\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
